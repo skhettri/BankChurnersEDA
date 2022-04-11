@@ -1,4 +1,4 @@
-# BankChurnersPrediction
+# BankChurnersEDA
 The purpose of this project is to provide guidance on possible churners and preventive actions bank can take to avoid customer leaving. Analysis is based on “BankChurners.csv” dataset using python and its packages.
 
 1.	Quick overview of dataset:
